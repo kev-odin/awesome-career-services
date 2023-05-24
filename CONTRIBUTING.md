@@ -75,7 +75,3 @@ Preface commit message with one of the following:
  
 ## Attribution
 This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
-
-# LICENSE
-awesome-career-services by Kevin Chung is marked with CC0 1.0 Universal.   
-To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0

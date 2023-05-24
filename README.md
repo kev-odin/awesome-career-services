@@ -10,7 +10,6 @@ Check out the live website [here](https://awesome-career-services.kchungdev.com)
 
 Explore this treasure trove of career services and be kind to yourself on your journey 🚀🚀🚀
 
-
 ## Contributions
 
 We welcome contributions to enhance the repository and make it even more comprehensive and helpful. If you have suggestions, improvements, or know of any other university career services that should be included, please follow these guidelines:
@@ -24,3 +23,8 @@ To maintain a positive and collaborative environment, we kindly request that all
 - Respect the repository's guidelines, structure, and licensing.
 
 By participating in this repository, you agree to abide by this community agreement. The repository maintainers reserve the right to address any behavior or contributions that violate this agreement. For more details, read our `CODE_OF_CONDUCT.md`
+
+# LICENSE
+
+awesome-career-services by Kevin Chung is marked with CC0 1.0 Universal.   
+To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0

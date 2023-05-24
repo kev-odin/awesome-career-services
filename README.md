@@ -6,7 +6,10 @@ Whether you're seeking internship opportunities, polishing your resume, or prepa
 
 Not a student at these institutions? No worries, this repository aims to be fully inclusive and financial background will not be a barrier to access these resources. We aim to ensure listed resources are FREE and available for all users.
 
+Check out the live website [here](https://awesome-career-services.kchungdev.com), or view the content in `docs/index.md`
+
 Explore this treasure trove of career services and be kind to yourself on your journey 🚀🚀🚀
+
 
 ## Contributions
 

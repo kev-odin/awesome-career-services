@@ -1,7 +1,7 @@
 site_name: Awesome Career Services
 site_description: A curated list of awesome career service resources
 site_author: Kevin Chung
-site_url: awesome-career-services.kchungdev.com
+site_url: https://awesome-career-services.kchungdev.com
 repo_name: kev-odin/awesome-career-services
 repo_url: https://github.com/kev-odin/awesome-career-services
 theme:

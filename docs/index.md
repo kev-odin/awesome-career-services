@@ -1,7 +1,7 @@
 # Resources
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to the ultimate resource for career services! This curated list is designed to connect students, recent graduates, and job seekers with top-notch career support and guidance offered by universities and related organizations providing services for underrepresented minorities.  
+Welcome to the ultimate resource for career services! This curated list is designed to connect students, recent graduates, and job seekers with exceptional career support and guidance offered by universities and related organizations.  
 
 Whether you're seeking internship opportunities, polishing your resume, or preparing for job interviews, this list of quality career services will provide you with invaluable resources on your professional journey.  
 
@@ -21,6 +21,7 @@ _Greatest of all time resources that everyone can peruse and keep for future ref
 - [CodePath](https://codepathdotorg.notion.site/codepathdotorg/CodePath-Career-Kit-80f86d446b654772832f9162c6c03950) - UMPIRE method overview for technical software interview excellence 📝✅
 - [ColorStack](https://wiki.colorstack.org/the-colorstack-family/) - comprehensive resources for new and experienced professionals 📝✅
 - [Massachusetts Institute of Technology](https://capd.mit.edu/resources/career-handbook/) - excellent guide covering everything about careers 📝✅
+- [Worcester Polytechnic Institute ](https://www.wpi.edu/student-experience/career-development/resources) detailed career plan templates📝
 - [University of Kansas](https://career.ku.edu/job-search-prep) - clean website with accessible resources for all career stages 📝✅
 
 

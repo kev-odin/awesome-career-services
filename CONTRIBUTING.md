@@ -12,8 +12,7 @@ And if you like the project, but just don't have time to contribute, that's fine
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the
-[Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to project maintainers.
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to project maintainers.
 
 ## I Have a Question
 
@@ -55,14 +54,20 @@ Local development is not required to contribute to this project. If you want to 
 
 1. Fork the repository and clone to your local environment.
    -  `git clone git@github.com:kev-odin/awesome-career-services.git`
-2. Make your changes or additions in a new branch.
+   -  `cd awesome-career-services`
+2. Build the project locally.
+   - Create a virtual environment: `python3 -m venv venv`
+   - Activate the virtual environment: `source venv/bin/activate`
+   - Install the project dependencies: `pip install -r requirements.txt`
+   - Run mkdocs: `mkdocs serve`
+3. Make your changes or additions in a new branch.
    - `git checkout -b <insert-sensible-name>`
    - sensible name such as: `resume/insert-source-here`, `salary/insert-money-tips-here`
-3. Ensure that your changes adhere to the repository's style and format.
+4. Ensure that your changes adhere to the repository's style and format.
    - keep entries in alphabetical order
    - description in the format: `In this resource, you will find <insert-description-here>`
    - resources referenced are from academic institution, usually from the career services website
-4. Commit your changes and submit a pull request, clearly describing the purpose and details of your contribution.
+5. Commit your changes and submit a pull request, clearly describing the purpose and details of your contribution.
 
 ## Styleguides
 ### Commit Messages

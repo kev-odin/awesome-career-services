@@ -1,12 +1,12 @@
 # awesome-career-services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to the ultimate resource for career services! This curated list is designed to connect students, recent graduates, and job seekers with top-notch career support and guidance offered by universities and related organizations providing services for underrepresented minorities.  
+Welcome to the ultimate resource for career services! This curated list is designed to connect students, recent graduates, and job seekers with exceptional career support and guidance offered by universities and related organizations.  
 
 Whether you're seeking internship opportunities, polishing your resume, or preparing for job interviews, this list of quality career services will provide you with invaluable resources on your professional journey.  
 
 Not a student at these institutions? No worries, this repository aims to be fully inclusive and financial background will not be a barrier to access these resources. We aim to ensure listed resources are FREE and available for all users.
 
-Check out the live website [here](https://awesome-career-services.kchungdev.com), or view the content in `docs/index.md`
+Check out the live website [here](https://awesome-career-services.kchungdev.com), or view the content in [docs](docs/index.md).
 
 Explore this treasure trove of career services and be kind to yourself on your journey 🚀🚀🚀
 
@@ -24,7 +24,7 @@ To maintain a positive and collaborative environment, we kindly request that all
 
 By participating in this repository, you agree to abide by this community agreement. The repository maintainers reserve the right to address any behavior or contributions that violate this agreement. For more details, read our `CODE_OF_CONDUCT.md`
 
-# LICENSE
+# License
 
 awesome-career-services by Kevin Chung is marked with CC0 1.0 Universal.   
 To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
